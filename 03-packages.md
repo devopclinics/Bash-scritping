@@ -52,12 +52,12 @@ Here is the complete example of the `packages.sh` script:
 
 # Description: It automates the installation of packages
 # Author: Mur Ami
-# Date: 07262021
+# Date: 07262024
 
-yum install finger -y
-yum install curl -y
-yum install zip -y
-yum install vim -y
+sudo apt install finger -y
+sudo apt install curl -y
+sudo apt install zip -y
+sudo apt install vim -y
 ```
 
 ### Summary of Steps
